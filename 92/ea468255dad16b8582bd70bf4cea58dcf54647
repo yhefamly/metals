@@ -1,0 +1,16 @@
+project/V.scala
+  h_08749565cac8b5 38
+metals/src/main/scala/scala/meta/internal/builds/SbtBuildTool.scala
+  h_08749565cac8b5 337-338,345
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "92ea468255dad16b8582bd70bf4cea58dcf54647",
+  "prompts": {},
+  "humans": {
+    "h_08749565cac8b5": {
+      "author": "Yannick Heiber <yhe@famly.co>"
+    }
+  }
+}
