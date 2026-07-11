@@ -1,0 +1,19 @@
+project/V.scala
+  s_e7110aad8d6166::t_0536350c8880c3 38
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.12",
+  "base_commit_sha": "076a40fe92893aac3788c2931e91b54fc610c3af",
+  "prompts": {},
+  "sessions": {
+    "s_e7110aad8d6166": {
+      "agent_id": {
+        "tool": "github-copilot-jetbrains",
+        "id": "1783781571433",
+        "model": "unknown"
+      },
+      "human_author": "Yannick Heiber <yhe@famly.co>"
+    }
+  }
+}
